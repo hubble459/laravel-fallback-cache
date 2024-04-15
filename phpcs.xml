@@ -45,7 +45,6 @@
 
     <rule ref="Generic.Formatting.MultipleStatementAlignment"/>
     <rule ref="Squiz.Arrays.ArrayDeclaration.DoubleArrowNotAligned" />
-    <rule ref="SlevomatCodingStandard.Classes.UnusedPrivateElements"/>
     <rule ref="SlevomatCodingStandard.Variables.UnusedVariable"/>
     <rule ref="SlevomatCodingStandard.Exceptions.DeadCatch"/>
 
